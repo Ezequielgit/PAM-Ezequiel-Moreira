@@ -4,7 +4,7 @@ const variavel3 = 50
 
 console.log("ola mundo")
 console.log(variavel1 + "kkkkkkk")
-console.log(variavel1, "\n vc está presa por",variavel2,"anos por excesso de gostosura 🥰")
+console.log(variavel1, "vc está presa por",variavel2,"anos por excesso de gostosura 🥰")
 console.log()//Para dar espaço (O \n não funcionou)
 
 console.log(variavel2 + variavel3)
